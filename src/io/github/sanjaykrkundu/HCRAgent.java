@@ -7,6 +7,11 @@ import java.text.SimpleDateFormat;
 import java.util.logging.ConsoleHandler;
 import java.util.logging.Logger;
 
+/**
+ * 
+ * @author sanjaykrkundu
+ *
+ */
 public class HCRAgent {
 	static String replaceTarget;
 	static String replaceSource;
