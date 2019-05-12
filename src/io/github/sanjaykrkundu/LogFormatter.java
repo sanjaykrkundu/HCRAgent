@@ -5,6 +5,11 @@ import java.util.logging.Formatter;
 import java.util.logging.Handler;
 import java.util.logging.LogRecord;
 
+/**
+ * 
+ * @author sanjaykrkundu
+ *
+ */
 public class LogFormatter extends Formatter {
 
 	public String format(LogRecord record) {
